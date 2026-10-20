@@ -1,0 +1,7 @@
+@"
+target/
+*.war
+*.class
+.idea/
+.vscode/
+"@ | Set-Content .gitignore
